@@ -9,6 +9,6 @@ var age = '29';
 console.log('Full Name: ' + firstName + ' ' + lastName);
 
 if(age > 19)
-    console.log('Not a teen. ')
+    console.log('Not a teen. ');
 else
-    console.log('We are a teen. We hate our parents. ')
+    console.log('We are a teen. We hate our parents. ');
